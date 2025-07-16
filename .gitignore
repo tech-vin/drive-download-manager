@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# OAuth tokens & credentials
+credentials.json
+token.pickle
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
